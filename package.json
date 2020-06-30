@@ -1,6 +1,6 @@
 {
     "name": "simple-sentiment-lib",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "description": "Very compact and simple to use sentiment analysis lib",
     "license": "MIT",
     "main": "main.js",
